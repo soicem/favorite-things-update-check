@@ -1,3 +1,3 @@
 # favorite-things-update-check
 
-# video or cartoon's update automatically check this app using py
+video or cartoon's update automatically can be checked by this app using py
